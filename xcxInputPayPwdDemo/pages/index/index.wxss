@@ -30,6 +30,8 @@
 }
 
 .input_tip{  margin: 30rpx; font-size: 24rpx; color: #888; }
+
+/* 密码掩码模拟 */
 .input_row{
   width: 690rpx; margin: 0 auto; height: 98rpx; position: relative;
   display: flex; align-items: center; border: 1rpx solid #e2e2e2; border-radius: 20rpx;
@@ -42,8 +44,13 @@
 .pwd_item text { 
   width: 30rpx; height: 30rpx; border-radius: 30rpx; background-color: #555;
 }
+
+
 .forget_pwd{ 
   float: right; margin: 30rpx; width: 100rpx; text-align: right; font-size: 24rpx; color: #ff7800;
 }
 
-.input_control { position: relative; left: -200rpx; }
+/* 文本输入框位置: 设置到左边隐藏 */
+.input_control { 
+  position: relative; left: -300rpx; bottom: 0; width: 100rpx; height: 100rpx;
+}
