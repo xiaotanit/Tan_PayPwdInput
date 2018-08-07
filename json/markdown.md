@@ -5,17 +5,17 @@
 ##### this is five level title element
 ###### this is six level title element !
 
-** 粗体字体在两个*之间 **
-__ 粗体字体在两个下划线之间 __
-* 斜体之间在单个*之间 *
-_ 斜体之间在单个下划线_之间 _
+**粗体字体在两个*之间**
+__粗体字体在两个下划线之间__
+*斜体之间在单个*之间*
+_斜体之间在单个下划线_之间_
 
-**  this is image, show format is : ![图片名](图片的网络地址) **
-![我是一个图片][https://pic.cnblogs.com/face/454511/20140208195615.png]
+**this is image, show format is : 感叹号[图片名]小括号 图片的网络地址 小括号**
+![https://github.com/xiaotanit/Tan_PayPwdInput/blob/master/xcxPayInput.gif]
 
-** 连接的格式：[链接名](链接地址) **
-[博客园TDX](https://www.cnblogs.com/tandaxia)
+**连接的格式：小括号 链接地址 小括号**
+(https://www.cnblogs.com/tandaxia)
 
-__ 引用格式：> __
-> 这是一段引用：天生我材必有用，千金散尽还复来；人生得意须尽欢，莫使金樽空对月！
+__ 引用格式：右尖括号
+> ## 这是一段引用：天生我材必有用，千金散尽还复来；人生得意须尽欢，莫使金樽空对月！ ##
 
